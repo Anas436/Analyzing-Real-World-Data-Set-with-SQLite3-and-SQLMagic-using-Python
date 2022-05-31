@@ -37,4 +37,4 @@ Let us first load the SQL extension and establish a connection with the database
 The syntax for connecting to magic sql using sqllite is
 %sql sqlite://DatabaseName
 
-where DatabaseName will be your .db file
+where DatabaseName will be your .db files
